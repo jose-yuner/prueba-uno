@@ -1,0 +1,20 @@
+* {
+    font-family: 'sen', sans-serif;
+    font-weight: 100;
+    scroll-behavior: smooth;
+}
+
+
+.container {
+padding: 20px;
+background: #59f;
+font-size: 20px;
+letter-spacing: 5PX;
+}
+
+#content {
+    background: red;
+    user-select: none;
+}
+
+
